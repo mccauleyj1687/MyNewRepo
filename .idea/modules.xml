@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GLAB303.10.2/GLAB303.10.2.iml" filepath="$PROJECT_DIR$/GLAB303.10.2/GLAB303.10.2.iml" />
       <module fileurl="file://$PROJECT_DIR$/GLAB30391/GLAB30391.iml" filepath="$PROJECT_DIR$/GLAB30391/GLAB30391.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MyNewRepo1.iml" filepath="$PROJECT_DIR$/.idea/MyNewRepo1.iml" />
     </modules>
